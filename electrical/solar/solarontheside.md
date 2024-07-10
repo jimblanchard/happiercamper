@@ -17,3 +17,7 @@ In order to safely use the solar array, I need to purchase a solar charge contro
 There are a range of options available. Some external solar arrays come with one built in, which is convenient but can be more expensive than buying a separate one that is wired inline between the panels and the trailer.
 
 There are also internal ones that offer a ton of features that is installed inside the trailer between the GoPower connector and the bus bars. Doing this would void the warranty if it is still in effect.
+
+## Wire Guauge
+
+The DC wiring that runs from the GoPower port on the side of the trailer to the buss bars is 12 AWG.
